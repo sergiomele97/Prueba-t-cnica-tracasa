@@ -1,0 +1,11 @@
+C:\Work\1-Tracasa\2-EntrevistaTecnica\FibonnaciChallenge\bin\Debug\net6.0\FibonnaciChallenge.deps.json
+C:\Work\1-Tracasa\2-EntrevistaTecnica\FibonnaciChallenge\bin\Debug\net6.0\FibonnaciChallenge.dll
+C:\Work\1-Tracasa\2-EntrevistaTecnica\FibonnaciChallenge\bin\Debug\net6.0\FibonnaciChallenge.pdb
+C:\Work\1-Tracasa\2-EntrevistaTecnica\FibonnaciChallenge\obj\Debug\net6.0\FibonnaciChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\1-Tracasa\2-EntrevistaTecnica\FibonnaciChallenge\obj\Debug\net6.0\FibonnaciChallenge.AssemblyInfoInputs.cache
+C:\Work\1-Tracasa\2-EntrevistaTecnica\FibonnaciChallenge\obj\Debug\net6.0\FibonnaciChallenge.AssemblyInfo.cs
+C:\Work\1-Tracasa\2-EntrevistaTecnica\FibonnaciChallenge\obj\Debug\net6.0\FibonnaciChallenge.csproj.CoreCompileInputs.cache
+C:\Work\1-Tracasa\2-EntrevistaTecnica\FibonnaciChallenge\obj\Debug\net6.0\FibonnaciChallenge.dll
+C:\Work\1-Tracasa\2-EntrevistaTecnica\FibonnaciChallenge\obj\Debug\net6.0\refint\FibonnaciChallenge.dll
+C:\Work\1-Tracasa\2-EntrevistaTecnica\FibonnaciChallenge\obj\Debug\net6.0\FibonnaciChallenge.pdb
+C:\Work\1-Tracasa\2-EntrevistaTecnica\FibonnaciChallenge\obj\Debug\net6.0\ref\FibonnaciChallenge.dll

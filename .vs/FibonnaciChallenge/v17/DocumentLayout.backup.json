@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\1-Tracasa\\2-EntrevistaTecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{438462DE-6186-474C-ADE7-E264B3EFB675}|FibonnaciChallenge\\FibonnaciChallenge.csproj|c:\\work\\1-tracasa\\2-entrevistatecnica\\fibonnacichallenge\\fibonnaciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438462DE-6186-474C-ADE7-E264B3EFB675}|FibonnaciChallenge\\FibonnaciChallenge.csproj|solutionrelative:fibonnacichallenge\\fibonnaciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438462DE-6186-474C-ADE7-E264B3EFB675}|FibonnaciChallenge\\FibonnaciChallenge.csproj|c:\\work\\1-tracasa\\2-entrevistatecnica\\fibonnacichallenge\\numeroaureoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438462DE-6186-474C-ADE7-E264B3EFB675}|FibonnaciChallenge\\FibonnaciChallenge.csproj|solutionrelative:fibonnacichallenge\\numeroaureoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438462DE-6186-474C-ADE7-E264B3EFB675}|FibonnaciChallenge\\FibonnaciChallenge.csproj|c:\\work\\1-tracasa\\2-entrevistatecnica\\fibonnacichallenge\\ifibonnaciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438462DE-6186-474C-ADE7-E264B3EFB675}|FibonnaciChallenge\\FibonnaciChallenge.csproj|solutionrelative:fibonnacichallenge\\ifibonnaciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DC756E-3B6C-4717-999E-887014078445}|FibonacciChallenge.Test\\FibonacciChallenge.Test.csproj|c:\\work\\1-tracasa\\2-entrevistatecnica\\fibonaccichallenge.test\\fibonnaciservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DC756E-3B6C-4717-999E-887014078445}|FibonacciChallenge.Test\\FibonacciChallenge.Test.csproj|solutionrelative:fibonaccichallenge.test\\fibonnaciservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFibonnaciService.cs",
+              "DocumentMoniker": "C:\\Work\\1-Tracasa\\2-EntrevistaTecnica\\FibonnaciChallenge\\IFibonnaciService.cs",
+              "RelativeDocumentMoniker": "FibonnaciChallenge\\IFibonnaciService.cs",
+              "ToolTip": "C:\\Work\\1-Tracasa\\2-EntrevistaTecnica\\FibonnaciChallenge\\IFibonnaciService.cs*",
+              "RelativeToolTip": "FibonnaciChallenge\\IFibonnaciService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:47:19.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NumeroAureoService.cs",
+              "DocumentMoniker": "C:\\Work\\1-Tracasa\\2-EntrevistaTecnica\\FibonnaciChallenge\\NumeroAureoService.cs",
+              "RelativeDocumentMoniker": "FibonnaciChallenge\\NumeroAureoService.cs",
+              "ToolTip": "C:\\Work\\1-Tracasa\\2-EntrevistaTecnica\\FibonnaciChallenge\\NumeroAureoService.cs",
+              "RelativeToolTip": "FibonnaciChallenge\\NumeroAureoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:41:16.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FibonnaciService.cs",
+              "DocumentMoniker": "C:\\Work\\1-Tracasa\\2-EntrevistaTecnica\\FibonnaciChallenge\\FibonnaciService.cs",
+              "RelativeDocumentMoniker": "FibonnaciChallenge\\FibonnaciService.cs",
+              "ToolTip": "C:\\Work\\1-Tracasa\\2-EntrevistaTecnica\\FibonnaciChallenge\\FibonnaciService.cs*",
+              "RelativeToolTip": "FibonnaciChallenge\\FibonnaciService.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:46:11.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FibonnaciServiceTests.cs",
+              "DocumentMoniker": "C:\\Work\\1-Tracasa\\2-EntrevistaTecnica\\FibonacciChallenge.Test\\FibonnaciServiceTests.cs",
+              "RelativeDocumentMoniker": "FibonacciChallenge.Test\\FibonnaciServiceTests.cs",
+              "ToolTip": "C:\\Work\\1-Tracasa\\2-EntrevistaTecnica\\FibonacciChallenge.Test\\FibonnaciServiceTests.cs",
+              "RelativeToolTip": "FibonacciChallenge.Test\\FibonnaciServiceTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:52:40.843Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
